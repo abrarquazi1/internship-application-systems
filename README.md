@@ -1,3 +1,13 @@
+# Abrar Quazi's Submission for Cloudflare Internship
+
+## How to Use
+- sudo go run easy_ping.go [hostname or ip address]
+
+Easy_Ping is a simple, clean implementation of the unix Ping CLI written in Go.
+I have implemented the extra credit of enabling support for both IPv4 and IPv6,
+as well as extra statistics when you press control ^c to exit the Application
+
+
 # Cloudflare Internship Application: Systems
 
 ## What is it?
